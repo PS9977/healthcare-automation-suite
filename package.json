@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-automation-suite",
+  "version": "1.0.0",
+  "description": "Automation framework using Cypress, Postman and SQL for Healthcare domain",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
